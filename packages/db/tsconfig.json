@@ -1,0 +1,9 @@
+{
+  "extends": "@kritica/config/tsconfig/library.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "dist",
+    "types": ["node"]
+  },
+  "include": ["src"]
+}
